@@ -29,7 +29,7 @@ app.use("/user", userRouter);
 const PORT = process.env.PORT || 5009;
 
 app.listen(PORT, () => {
-  console.log(`🚀 Server running on port: ${PORT}`);
+  console.log(`Server running on port: ${PORT}`);
 
   mongoose
     .connect(process.env.CONNECTION_URL, {
