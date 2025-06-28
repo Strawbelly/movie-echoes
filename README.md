@@ -8,6 +8,8 @@ Movie Echoes is a full-stack MERN (MongoDB, Express, React, Node.js) + Redux app
 
 Built with a clean UI using Material UI, JWT authentication, and responsive design for desktop and mobile.
 
+![Memories](https://github.com/user-attachments/assets/c95129b5-42cf-4e4c-a01c-5acd82cce3c2)
+
 ## 🔧 Tech Stack
 
 - **Frontend**: React, Redux, Material UI  
